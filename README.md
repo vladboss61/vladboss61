@@ -19,7 +19,7 @@ Here’s a bit about my journey and what I love to work on:
 - DevOps Practices: Implementing CI/CD pipelines, automating processes, and fostering a collaborative development environment
 - CLI Tools: Creating bespoke CLI tools to simplify and automate everyday tasks
 
-⚡General Information:
+⚡General
 * 🌍  I'm based in Ukraine
 * 🖥️  See my portfolio at [Summary](http://docs.google.com/document/d/1ejdfLDJzSZgyQjw2ipOLforrvutCECu0Z2gkADAXDcY)
 * ✉️  You can contact me at [vlad19972017@gmail.com](mailto:vlad19972017@gmail.com)
