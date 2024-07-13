@@ -5,7 +5,8 @@ Senior Software Engineer
 ------------------------
 
 I'm a seasoned Software Engineer with over 7 years of experience in the tech industry. My expertise spans a wide array of technologies, and I have a deep passion for continuous learning and improvement.
-Here’s a bit about my journey and what I love to work on: 
+Here’s a bit about my journey and what I love to work on:
+
 🔧 Technologies & Skills
 - Languages: .NET (C#), TypeScript, JavaScript, Python, SQL, PowerShell, Bash
 - Web Development: Full-stack development with a focus on creating robust and scalable web applications
