@@ -4,8 +4,20 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Senior Software Engineer
 ------------------------
 
-I'm a seasoned Software Engineer with over 7 years of experience in the tech industry. My expertise spans a wide array of technologies, and I have a deep passion for continuous learning and improvement. Here’s a bit about my journey and what I love to work on: 🔧 Technologies & Skills - Languages: .NET (C#), TypeScript, JavaScript, Python, SQL, PowerShell, Bash - Web Development: Full-stack development with a focus on creating robust and scalable web applications - DevOps: Strong advocate for DevOps culture, focusing on automation, continuous integration, and continuous delivery - Custom CLI Tools: Enthusiastic about developing custom command-line tools to enhance productivity and streamline workflows 🚀 What I Do - Software Development: Building and maintaining high-quality software solutions tailored to meet client needs - Web Development: Crafting responsive and dynamic websites and applications using micro-frontend practice. - DevOps Practices: Implementing CI/CD pipelines, automating processes, and fostering a collaborative development environment - CLI Tools: Creating bespoke CLI tools to simplify and automate everyday tasks
+I'm a seasoned Software Engineer with over 7 years of experience in the tech industry. My expertise spans a wide array of technologies, and I have a deep passion for continuous learning and improvement.
+Here’s a bit about my journey and what I love to work on: 
+🔧 Technologies & Skills - Languages: .NET (C#), TypeScript, JavaScript, Python, SQL, PowerShell, Bash
+- Web Development: Full-stack development with a focus on creating robust and scalable web applications
+- DevOps: Strong advocate for DevOps culture, focusing on automation, continuous integration, and continuous delivery
+- Custom CLI Tools: Enthusiastic about developing custom command-line tools to enhance productivity and streamline workflows
 
+🚀 What I Do
+- Software Development: Building and maintaining high-quality software solutions tailored to meet client needs
+- Web Development: Crafting responsive and dynamic websites and applications using micro-frontend practice.
+- DevOps Practices: Implementing CI/CD pipelines, automating processes, and fostering a collaborative development environment
+- CLI Tools: Creating bespoke CLI tools to simplify and automate everyday tasks
+
+⚡General Information:
 * 🌍  I'm based in Ukraine
 * 🖥️  See my portfolio at [Summary](http://docs.google.com/document/d/1ejdfLDJzSZgyQjw2ipOLforrvutCECu0Z2gkADAXDcY)
 * ✉️  You can contact me at [vlad19972017@gmail.com](mailto:vlad19972017@gmail.com)
